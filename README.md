@@ -14,14 +14,6 @@ This module provides a custom implementation of the `Promise.all()` method. Unli
 - ✅ Resolves with an empty array for empty iterables
 - ✅ Preserves the original Promise.all() behavior for Promise-only iterables
 
-## Installation
-
-No dependencies required. Simply import the function:
-
-```javascript
-import promiseAll from './promiseAll.js';
-```
-
 ## Usage
 
 ### Basic Usage
